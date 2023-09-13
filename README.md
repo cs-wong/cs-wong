@@ -1,6 +1,6 @@
 # Hi, I'm Sam👋
 
-## MEng Aerospace Engineering Graduate
+### MEng Aerospace Engineering Graduate
 
 ![I am GitHub Readme Generator's creator](https://img.freepik.com/premium-photo/banner-starry-outer-space-background-texture_78899-4534.jpg?w=2000)
 
